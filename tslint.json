@@ -1,0 +1,7 @@
+{
+    "defaultSeverity": "error",
+    "extends": "@kcp/eslint-config-lint",
+    "jsRules": {},
+    "rules": {},
+    "rulesDirectory": []
+}
